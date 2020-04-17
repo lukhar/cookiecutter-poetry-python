@@ -5,7 +5,7 @@ A (somewhat opinionated) [cookiecutter](https://github.com/cookiecutter/cookiecu
 ## Quick start
 
 1. Install [poetry](https://python-poetry.org/docs/#installation)
-2. Install latest (cookiecutter)[https://cookiecutter.readthedocs.io/en/1.7.0/installation.html]
+2. Install latest [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/installation.html)
 3. Generate a Python `poetry` package project
 
 ```
